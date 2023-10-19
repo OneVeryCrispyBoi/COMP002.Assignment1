@@ -1,2 +1,2 @@
-# COOMP002.Assignment
+# COMP002.Assignment
 Author: Alexis Lara
